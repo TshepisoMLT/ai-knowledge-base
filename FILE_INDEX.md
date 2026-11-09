@@ -1,0 +1,25 @@
+# File Index
+
+Total Markdown files: 21
+
+- [`AGENTS.md`](AGENTS.md)
+- [`PUBLISH.md`](PUBLISH.md)
+- [`README.md`](README.md)
+- [`REPOSITORY_CATALOG.md`](REPOSITORY_CATALOG.md)
+- [`ai/BUG_TRIAGE.md`](ai/BUG_TRIAGE.md)
+- [`ai/CODEBASE_RECONNAISSANCE.md`](ai/CODEBASE_RECONNAISSANCE.md)
+- [`ai/DOCUMENTATION_POLICY.md`](ai/DOCUMENTATION_POLICY.md)
+- [`ai/FEATURE_WORKFLOW.md`](ai/FEATURE_WORKFLOW.md)
+- [`ai/SECURITY_REVIEW.md`](ai/SECURITY_REVIEW.md)
+- [`ai/TESTING_AND_VALIDATION.md`](ai/TESTING_AND_VALIDATION.md)
+- [`projects/GLIMPSE.md`](projects/GLIMPSE.md)
+- [`projects/MEETBUDY-V1.md`](projects/MEETBUDY-V1.md)
+- [`projects/MLTCORP-INTRODUCTION.md`](projects/MLTCORP-INTRODUCTION.md)
+- [`projects/PROJECT-MANAGER-FINAL.md`](projects/PROJECT-MANAGER-FINAL.md)
+- [`projects/STUDIOUS-PALM-TREE.md`](projects/STUDIOUS-PALM-TREE.md)
+- [`templates/ARCHITECTURE_DECISION_RECORD.md`](templates/ARCHITECTURE_DECISION_RECORD.md)
+- [`templates/BUG_REPORT_TEMPLATE.md`](templates/BUG_REPORT_TEMPLATE.md)
+- [`templates/FEATURE_SPEC_TEMPLATE.md`](templates/FEATURE_SPEC_TEMPLATE.md)
+- [`templates/PROJECT_CONTEXT_TEMPLATE.md`](templates/PROJECT_CONTEXT_TEMPLATE.md)
+- [`templates/PROMPT_TEMPLATE.md`](templates/PROMPT_TEMPLATE.md)
+- [`templates/SESSION_HANDOFF.md`](templates/SESSION_HANDOFF.md)
